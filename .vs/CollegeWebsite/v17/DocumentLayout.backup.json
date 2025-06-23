@@ -1,0 +1,681 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\models\\admissionformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\models\\admissionformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\models\\admissionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\models\\admissionapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\shared\\_student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\shared\\_student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\controllers\\admissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\controllers\\admissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\admission\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\admission\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\admin\\admissionapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\admin\\admissionapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\student\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\student\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\models\\facultyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\models\\facultyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\faculty\\addfaculty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\faculty\\addfaculty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\student\\studentdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\student\\studentdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\dashboard\\viewfeedbacks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\dashboard\\viewfeedbacks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\models\\cdviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\models\\cdviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\admin\\updatestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\admin\\updatestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\course\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\course\\addcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\faculty\\showfaculties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\faculty\\showfaculties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\course\\showcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\course\\showcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\controllers\\studentbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\controllers\\studentbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\admission\\checkstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\admission\\checkstatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\course\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\admission\\statusresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\admission\\statusresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\models\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|c:\\users\\cz3\\source\\repos\\itm college\\collegewebsite\\collegewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3803FA6-E451-4B6F-B259-E3638A6C1F17}|CollegeWebsite\\CollegeWebsite.csproj|solutionrelative:collegewebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdmissionFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\AdmissionFormViewModel.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Models\\AdmissionFormViewModel.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\AdmissionFormViewModel.cs",
+              "RelativeToolTip": "CollegeWebsite\\Models\\AdmissionFormViewModel.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwC4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T22:30:11.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Admission\\Apply.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Admission\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Admission\\Apply.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Admission\\Apply.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T22:45:34.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdmissionController.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\AdmissionController.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Controllers\\AdmissionController.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\AdmissionController.cs",
+              "RelativeToolTip": "CollegeWebsite\\Controllers\\AdmissionController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:36:24.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Student.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Shared\\_Student.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Shared\\_Student.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Shared\\_Student.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Shared\\_Student.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T18:41:32.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\Admin.cs",
+              "RelativeToolTip": "CollegeWebsite\\Models\\Admin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:51:09.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdmissionApplication.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\AdmissionApplication.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Models\\AdmissionApplication.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\AdmissionApplication.cs",
+              "RelativeToolTip": "CollegeWebsite\\Models\\AdmissionApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T22:30:18.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacultyController.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\FacultyController.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Controllers\\FacultyController.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\FacultyController.cs",
+              "RelativeToolTip": "CollegeWebsite\\Controllers\\FacultyController.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAwwDoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:40:46.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Program.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Program.cs",
+              "RelativeToolTip": "CollegeWebsite\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:50:11.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdmissionApplications.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Admin\\AdmissionApplications.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Admin\\AdmissionApplications.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Admin\\AdmissionApplications.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Admin\\AdmissionApplications.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T22:44:01.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAOkAAAAAAAAAAADwv/cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T12:33:20.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CollegeWebsite\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:34:13.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\Student.cs",
+              "RelativeToolTip": "CollegeWebsite\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:51:27.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Models\\Faculty.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\Faculty.cs",
+              "RelativeToolTip": "CollegeWebsite\\Models\\Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:43:13.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\Feedback.cs",
+              "RelativeToolTip": "CollegeWebsite\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwAsAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:33:40.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Shared\\_Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Shared\\_Dashboard.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T19:23:40.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Student\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Student\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Student\\SignUp.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Student\\SignUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T19:53:36.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FacultyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\FacultyViewModel.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Models\\FacultyViewModel.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\FacultyViewModel.cs",
+              "RelativeToolTip": "CollegeWebsite\\Models\\FacultyViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwAwAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:43:14.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\Department.cs",
+              "RelativeToolTip": "CollegeWebsite\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:44:00.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CollegeWebsite\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAowE4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:38:05.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddFaculty.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Faculty\\AddFaculty.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Faculty\\AddFaculty.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Faculty\\AddFaculty.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Faculty\\AddFaculty.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T18:50:22.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Student\\StudentDashboard.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Student\\StudentDashboard.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Student\\StudentDashboard.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Student\\StudentDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T22:49:00.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CDViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\CDViewModel.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Models\\CDViewModel.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\CDViewModel.cs",
+              "RelativeToolTip": "CollegeWebsite\\Models\\CDViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T21:36:04.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddCourse.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Course\\AddCourse.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Course\\AddCourse.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Course\\AddCourse.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Course\\AddCourse.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T22:47:37.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ViewFeedbacks.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Dashboard\\ViewFeedbacks.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Dashboard\\ViewFeedbacks.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Dashboard\\ViewFeedbacks.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Dashboard\\ViewFeedbacks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T14:07:46.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Admin\\UpdateStatus.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Admin\\UpdateStatus.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Admin\\UpdateStatus.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Admin\\UpdateStatus.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T22:45:04.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\StudentBaseController.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Controllers\\StudentBaseController.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\StudentBaseController.cs",
+              "RelativeToolTip": "CollegeWebsite\\Controllers\\StudentBaseController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:42:03.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "CollegeWebsite\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAqwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:38:13.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ShowCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Course\\ShowCourses.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Course\\ShowCourses.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Course\\ShowCourses.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Course\\ShowCourses.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T19:49:17.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShowFaculties.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Faculty\\ShowFaculties.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Faculty\\ShowFaculties.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Faculty\\ShowFaculties.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Faculty\\ShowFaculties.cshtml",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAkwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T02:48:07.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-29T02:29:28.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "CollegeWebsite\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAIwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:39:40.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CheckStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Admission\\CheckStatus.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Admission\\CheckStatus.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Admission\\CheckStatus.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Admission\\CheckStatus.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T22:46:18.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Course\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Course\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Course\\Edit.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Course\\Edit.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T22:48:23.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\Course.cs",
+              "RelativeToolTip": "CollegeWebsite\\Models\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:09:01.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\appsettings.json",
+              "RelativeDocumentMoniker": "CollegeWebsite\\appsettings.json",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\appsettings.json",
+              "RelativeToolTip": "CollegeWebsite\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T22:50:05.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StatusResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Admission\\StatusResult.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Admission\\StatusResult.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Admission\\StatusResult.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Admission\\StatusResult.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T22:46:43.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CourseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\CourseViewModel.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Models\\CourseViewModel.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Models\\CourseViewModel.cs",
+              "RelativeToolTip": "CollegeWebsite\\Models\\CourseViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:43:29.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CollegeWebsite\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAkwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:42:26.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "CollegeWebsite\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:38:57.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "CollegeWebsite\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:37:05.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CollegeWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CollegeWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T21:53:14.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

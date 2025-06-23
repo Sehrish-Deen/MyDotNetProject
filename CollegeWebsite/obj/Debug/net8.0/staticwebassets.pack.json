@@ -1,0 +1,1129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CollegeWebsite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CollegeWebsite.ezacqbvd8y.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\css\\style.css",
+      "PackagePath": "staticwebassets\\dashboard\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\dashboard\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\js\\main.js",
+      "PackagePath": "staticwebassets\\dashboard\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\dashboard\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\dashboard\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\dashboard\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\facultyImages\\0166649e-9e64-42b6-b3e0-aaa9dc835143_f2.jpg",
+      "PackagePath": "staticwebassets\\facultyImages\\0166649e-9e64-42b6-b3e0-aaa9dc835143_f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\facultyImages\\11ce4bbb-1889-4b12-8258-50dea9c18b02_f3.jpg",
+      "PackagePath": "staticwebassets\\facultyImages\\11ce4bbb-1889-4b12-8258-50dea9c18b02_f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\facultyImages\\305438d3-772d-4a99-af85-238b004338b5_j.jpg",
+      "PackagePath": "staticwebassets\\facultyImages\\305438d3-772d-4a99-af85-238b004338b5_j.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\facultyImages\\3ff38583-3b99-4a25-85b9-a9fa0846cd3e_f4.jpg",
+      "PackagePath": "staticwebassets\\facultyImages\\3ff38583-3b99-4a25-85b9-a9fa0846cd3e_f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\facultyImages\\5f04b500-1a99-48dd-ab16-dbebca8e7808_profile.jpg",
+      "PackagePath": "staticwebassets\\facultyImages\\5f04b500-1a99-48dd-ab16-dbebca8e7808_profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\facultyImages\\77827985-ecb6-4b54-a8ac-19a49c19b243_f1.jpg",
+      "PackagePath": "staticwebassets\\facultyImages\\77827985-ecb6-4b54-a8ac-19a49c19b243_f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\facultyImages\\ca91e582-d97f-4a3b-aacf-cfd60136d90d_f6.jpg",
+      "PackagePath": "staticwebassets\\facultyImages\\ca91e582-d97f-4a3b-aacf-cfd60136d90d_f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\facultyImages\\cd7d5c29-7754-4203-b226-eddf95a646e5_f3.jpg",
+      "PackagePath": "staticwebassets\\facultyImages\\cd7d5c29-7754-4203-b226-eddf95a646e5_f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\forms\\Student_Admission_Form.pdf",
+      "PackagePath": "staticwebassets\\forms\\Student_Admission_Form.pdf"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\062add87-b6a1-402f-b3d7-002dcbe2201a_commerce.png",
+      "PackagePath": "staticwebassets\\images\\062add87-b6a1-402f-b3d7-002dcbe2201a_commerce.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\0bc3b39b-1a60-4d5b-897c-647cd3579fe9_chemistry.jpg",
+      "PackagePath": "staticwebassets\\images\\0bc3b39b-1a60-4d5b-897c-647cd3579fe9_chemistry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\1e7d73ca-bf9d-4544-990c-06bf05fb6a6c_psychology.png",
+      "PackagePath": "staticwebassets\\images\\1e7d73ca-bf9d-4544-990c-06bf05fb6a6c_psychology.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\1eb54db0-dd3f-4db0-8a29-a752bd865db2.jpg",
+      "PackagePath": "staticwebassets\\images\\1eb54db0-dd3f-4db0-8a29-a752bd865db2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\30e5f4f9-7e3e-4065-8a3f-e887d255ff85_profile.jpg",
+      "PackagePath": "staticwebassets\\images\\30e5f4f9-7e3e-4065-8a3f-e887d255ff85_profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\4fd2c371-2550-402c-8161-f18c3cdfd3e1_j.jpg",
+      "PackagePath": "staticwebassets\\images\\4fd2c371-2550-402c-8161-f18c3cdfd3e1_j.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\505f9f1e-005c-418c-8f87-3beb139e16b9.jpeg",
+      "PackagePath": "staticwebassets\\images\\505f9f1e-005c-418c-8f87-3beb139e16b9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\51b61906-1d74-4037-99cd-a15553eab152_history.jpg",
+      "PackagePath": "staticwebassets\\images\\51b61906-1d74-4037-99cd-a15553eab152_history.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\65a4c50f-6cce-4bd4-ad82-12697f752f8f_chemistry.jpg",
+      "PackagePath": "staticwebassets\\images\\65a4c50f-6cce-4bd4-ad82-12697f752f8f_chemistry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\65edfce7-4397-4c48-90a9-00ab8b5b1a05_medical.png",
+      "PackagePath": "staticwebassets\\images\\65edfce7-4397-4c48-90a9-00ab8b5b1a05_medical.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\67e8e446-f0eb-4c1b-af1b-a9ffbe38c6c7_physics.jpg",
+      "PackagePath": "staticwebassets\\images\\67e8e446-f0eb-4c1b-af1b-a9ffbe38c6c7_physics.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\6deecfc3-307c-4ee1-b014-8d2ac917645f_economics.jpg",
+      "PackagePath": "staticwebassets\\images\\6deecfc3-307c-4ee1-b014-8d2ac917645f_economics.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\7f6e3020-1858-4cbd-a7ea-e6c0f6b02bd7_accounts.jpg",
+      "PackagePath": "staticwebassets\\images\\7f6e3020-1858-4cbd-a7ea-e6c0f6b02bd7_accounts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\821f743e-9f5e-4513-b8f5-acfcdb7e19d6_cs dept.png",
+      "PackagePath": "staticwebassets\\images\\821f743e-9f5e-4513-b8f5-acfcdb7e19d6_cs dept.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\8c04a584-a976-428f-8142-6cabc677e291_j.jpg",
+      "PackagePath": "staticwebassets\\images\\8c04a584-a976-428f-8142-6cabc677e291_j.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\91105c66-9ae7-4a2d-93bc-ab374b639c7a_engineering department.jpg",
+      "PackagePath": "staticwebassets\\images\\91105c66-9ae7-4a2d-93bc-ab374b639c7a_engineering department.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\91afb2c0-c8fb-413f-8d60-88bb3eb1f93c_j.jpg",
+      "PackagePath": "staticwebassets\\images\\91afb2c0-c8fb-413f-8d60-88bb3eb1f93c_j.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\a15135a6-8689-42dd-877e-c37393433a96_physics.jpg",
+      "PackagePath": "staticwebassets\\images\\a15135a6-8689-42dd-877e-c37393433a96_physics.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\a748070d-1694-471f-9799-d87821b76359_banking.jpg",
+      "PackagePath": "staticwebassets\\images\\a748070d-1694-471f-9799-d87821b76359_banking.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\a7d8db2a-db62-4885-8472-8577015335ea.jpg",
+      "PackagePath": "staticwebassets\\images\\a7d8db2a-db62-4885-8472-8577015335ea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\b492743f-a2d2-456c-b62e-73b459cf4281_maths.jpg",
+      "PackagePath": "staticwebassets\\images\\b492743f-a2d2-456c-b62e-73b459cf4281_maths.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\c23f4718-dd2d-40d6-91d3-8391f5072746_arts department.jpeg",
+      "PackagePath": "staticwebassets\\images\\c23f4718-dd2d-40d6-91d3-8391f5072746_arts department.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\c8fadad6-527a-4fc4-b58a-a8e4c9a6c8ef_67e8e446-f0eb-4c1b-af1b-a9ffbe38c6c7_physics.jpg",
+      "PackagePath": "staticwebassets\\images\\c8fadad6-527a-4fc4-b58a-a8e4c9a6c8ef_67e8e446-f0eb-4c1b-af1b-a9ffbe38c6c7_physics.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\cbd7b586-0419-462d-a6bd-65cd4cbccff7_med.png",
+      "PackagePath": "staticwebassets\\images\\cbd7b586-0419-462d-a6bd-65cd4cbccff7_med.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\d03bfbea-d0bc-434a-be02-1d13b76b14ce_english.jpg",
+      "PackagePath": "staticwebassets\\images\\d03bfbea-d0bc-434a-be02-1d13b76b14ce_english.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\d26ef052-77d9-4fb8-a9c8-d34e995e57ae_j.jpg",
+      "PackagePath": "staticwebassets\\images\\d26ef052-77d9-4fb8-a9c8-d34e995e57ae_j.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\dummy-profile.png",
+      "PackagePath": "staticwebassets\\images\\dummy-profile.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\e4499085-8161-4acb-a0b0-4420079ae560_computer department.jpg",
+      "PackagePath": "staticwebassets\\images\\e4499085-8161-4acb-a0b0-4420079ae560_computer department.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\eac88b59-def7-4bb0-9379-5ce9e51b40bc.jpg",
+      "PackagePath": "staticwebassets\\images\\eac88b59-def7-4bb0-9379-5ce9e51b40bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\ed459bb3-d3fd-4cb8-9e13-3519e6a8601f_computer course.jpg",
+      "PackagePath": "staticwebassets\\images\\ed459bb3-d3fd-4cb8-9e13-3519e6a8601f_computer course.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\f2f0ff33-9947-4bc4-a720-0d0744a2a426_english.jpg",
+      "PackagePath": "staticwebassets\\images\\f2f0ff33-9947-4bc4-a720-0d0744a2a426_english.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\f92a4a19-58ef-4258-98f4-3cf79e24f2c0_home science.jpg",
+      "PackagePath": "staticwebassets\\images\\f92a4a19-58ef-4258-98f4-3cf79e24f2c0_home science.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\images\\j.jpg",
+      "PackagePath": "staticwebassets\\images\\j.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\js\\ShowPassword.js",
+      "PackagePath": "staticwebassets\\js\\ShowPassword.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\css\\templatemo-edu-meeting.css",
+      "PackagePath": "staticwebassets\\template\\assets\\css\\templatemo-edu-meeting.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\template\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\apply-bg.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\apply-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\course-01.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\course-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\course-02.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\course-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\course-03.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\course-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\course-04.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\course-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\course-video.mp4",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\course-video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\facts-bg.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\facts-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\heading-bg.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\heading-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\meeting-01.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\meeting-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\meeting-02.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\meeting-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\meeting-03.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\meeting-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\meeting-04.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\meeting-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\meetings-bg.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\meetings-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\meetings-page-bg.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\meetings-page-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\next.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\play-icon.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\play-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\prev.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\service-icon-01.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\service-icon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\service-icon-02.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\service-icon-02.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\service-icon-03.png",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\service-icon-03.png"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\service-item-bg.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\service-item-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\single-meeting.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\single-meeting.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\images\\video-item-bg.jpg",
+      "PackagePath": "staticwebassets\\template\\assets\\images\\video-item-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\js\\isotope.min.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\isotope.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\js\\slick-slider.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\slick-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\assets\\js\\video.js",
+      "PackagePath": "staticwebassets\\template\\assets\\js\\video.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\template\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CZ3\\source\\repos\\ITM College\\CollegeWebsite\\CollegeWebsite\\wwwroot\\template\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\template\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CollegeWebsite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CollegeWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CollegeWebsite.props",
+      "PackagePath": "build\\CollegeWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CollegeWebsite.props",
+      "PackagePath": "buildMultiTargeting\\CollegeWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CollegeWebsite.props",
+      "PackagePath": "buildTransitive\\CollegeWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

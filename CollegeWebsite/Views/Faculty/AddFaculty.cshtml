@@ -1,0 +1,117 @@
+﻿@model CollegeWebsite.Models.FacultyViewModel
+
+@{
+    ViewData["Title"] = "AddFaculty";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<div class="container-fluid position-relative d-flex p-0" style="min-height: 100vh;">
+    <div class="container-fluid">
+        <div class="row h-100 align-items-center justify-content-center" style="min-height: 100vh;">
+            <div class="col-12 col-sm-11 col-md-10 col-lg-10 col-xl-9">
+                <div class="bg-secondary rounded p-4 p-sm-5 my-4 mx-3 text-white">
+
+                    <h3 class="text-center mb-4" style="color: #a12c2f;">Add Faculty</h3>
+
+                    @if (TempData["Error"] != null)
+                    {
+                        <div class="alert alert-danger">@TempData["Error"]</div>
+                    }
+                    @if (TempData["Ext_error"] != null)
+                    {
+                        <div class="alert alert-danger">@TempData["Ext_error"]</div>
+                    }
+                    @if (TempData["Size_error"] != null)
+                    {
+                        <div class="alert alert-danger">@TempData["Size_error"]</div>
+                    }
+
+                    <form asp-action="AddFaculty" method="post" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                        <div class="row g-3">
+                            <div class="col-md-12">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="FacultyName" class="form-control border-0" placeholder="Enter name" />
+                                    <label asp-for="FacultyName">Faculty Name</label>
+                                    <span asp-validation-for="FacultyName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="Qualification" class="form-control border-0" placeholder="Enter qualification" />
+                                    <label asp-for="Qualification">Qualification</label>
+                                    <span asp-validation-for="Qualification" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="Designation" class="form-control border-0" placeholder="Enter designation" />
+                                    <label asp-for="Designation">Designation</label>
+                                    <span asp-validation-for="Designation" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="Email" class="form-control border-0" placeholder="Enter email" />
+                                    <label asp-for="Email">Email</label>
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="Phone" class="form-control border-0" placeholder="Enter phone" />
+                                    <label asp-for="Phone">Phone</label>
+                                    <span asp-validation-for="Phone" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="form-floating border rounded p-2">
+                                    <select asp-for="DepartmentId" asp-items="@(new SelectList(Model.Departments, "DepartmentId", "DepartmentName"))" class="form-select border-0">
+                                        <option value="">-- Select Department --</option>
+                                    </select>
+                                    <label asp-for="DepartmentId">Department</label>
+                                    <span asp-validation-for="DepartmentId" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <div class="form-floating mb-3">
+                                <input asp-for="Photo" type="file" class="form-control" id="floatingPhoto" />
+                                <label for="floatingPhoto" style="color: #000;">Upload Photo</label>
+                                <span asp-validation-for="Photo" class="text-danger"></span>
+                            </div>
+
+                            @if (!string.IsNullOrEmpty(Model.ExistingPhoto))
+                            {
+                                <div class="mb-3">
+                                    <label>Current Photo:</label><br />
+                                    <img src="~/facultyImages/@Model.ExistingPhoto" alt="Faculty Photo" width="100" height="100" class="rounded" />
+                                </div>
+                            }
+
+                            <div class="text-center mt-4">
+                                <button type="submit" class="btn btn-outline-warning w-50 py-3" style="color: white;">Add Faculty</button>
+                            </div>
+                        </div>
+                    </form>
+
+                    <div class="text-center mt-3">
+                        <a asp-action="ShowFaculties" style="color: #a12c2f;">Back to List</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Check Admission Status";
+    Layout = "~/Views/Shared/_Student.cshtml";
+}
+
+<!-- Container to center the admission status check form vertically and horizontally -->
+<div class="container-fluid position-relative d-flex p-0" style="min-height: 100vh;">
+    <div class="container-fluid">
+        <div class="row h-100 align-items-center justify-content-center" style="min-height: 100vh;">
+            <div class="col-12 col-sm-11 col-md-10 col-lg-8 col-xl-7">
+                <div class="bg-secondary rounded p-4 p-sm-5 my-4 mx-3 text-white">
+
+                    <!-- Page heading -->
+                    <h3 class="text-center mb-4" style="color: #a12c2f;">Check Admission Status</h3>
+
+                    <!-- Form for submitting unique admission number to check admission status -->
+                    <form method="post" asp-action="CheckStatus">
+                        <div class="form-floating border rounded p-2 mb-3">
+                            <input type="text" class="form-control border-0" id="uniqueAdmissionNumber" name="uniqueAdmissionNumber" placeholder="Enter Your Unique Admission Number" required />
+                            <label for="uniqueAdmissionNumber">Enter Your Admission Number</label>
+                        </div>
+
+                        <!-- Submit button -->
+                        <div class="text-center mt-3">
+                            <button type="submit" class="btn btn-outline-warning w-50 py-3" style="color: white;">Check Status</button>
+                        </div>
+                    </form>
+
+                    <!-- Display message returned from the controller after form submission -->
+                    @if (ViewBag.Message != null)
+                    {
+                        <div class="alert alert-warning mt-4 text-center">@ViewBag.Message</div>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

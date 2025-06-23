@@ -1,0 +1,51 @@
+﻿@model CollegeWebsite.Models.Faculty
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Faculty</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">@Html.DisplayNameFor(m => m.FacultyName)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(m => m.FacultyName)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(m => m.Qualification)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(m => m.Qualification)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(m => m.Designation)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(m => m.Designation)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(m => m.Email)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(m => m.Email)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(m => m.Phone)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(m => m.Phone)</dd>
+
+        <dt class="col-sm-2">Photo</dt>
+        <dd class="col-sm-10">
+            @if (!string.IsNullOrEmpty(Model.Photo))
+            {
+                <img src="~/facultyImages/@Model.Photo" alt="Faculty Photo" style="width:100px; height:100px;" />
+            }
+            else
+            {
+                <span>No photo uploaded.</span>
+            }
+        </dd>
+
+        <dt class="col-sm-2">Department</dt>
+        <dd class="col-sm-10">
+            @(Model.Department?.DepartmentName ?? "No Department Assigned")
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.FacultyId" style="color: #a12c2f;">Edit</a> |
+    <a asp-action="ShowFaculties" style="color: #a12c2f;">Back to List</a>
+</div>

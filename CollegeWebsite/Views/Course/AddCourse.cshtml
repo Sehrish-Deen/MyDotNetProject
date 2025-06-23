@@ -1,0 +1,93 @@
+﻿@model CollegeWebsite.Models.CourseViewModel
+
+@{
+    ViewData["Title"] = "AddCourse";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<!-- Full-page container for consistent height across all screen sizes -->
+<div class="container-fluid position-relative d-flex p-0" style="min-height: 100vh;">
+    <div class="container-fluid">
+        <!-- Centering row and column for the form -->
+        <div class="row h-100 align-items-center justify-content-center" style="min-height: 100vh;">
+            <div class="col-12 col-sm-11 col-md-10 col-lg-10 col-xl-9">
+                <!-- Card-style container with padding and styling -->
+                <div class="bg-secondary rounded p-4 p-sm-5 my-4 mx-3 text-white">
+
+                    <!-- Page header -->
+                    <h3 class="text-center mb-4" style="color: #a12c2f;">Add Course</h3>
+
+                    <!-- Display error messages related to image validation -->
+                    <p class="text-danger">@TempData["Size_error"]</p>
+                    <p class="text-danger">@TempData["Ext_error"]</p>
+
+                    <!-- Form to submit new course, includes file upload -->
+                    <form asp-action="AddCourse" method="post" enctype="multipart/form-data">
+                        @Html.AntiForgeryToken()
+
+                        <!-- Summary for any model validation errors -->
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+                        <div class="row g-3">
+                            <!-- Course Name input -->
+                            <div class="col-md-12">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="CourseName" class="form-control border-0" placeholder="Enter course name" />
+                                    <label asp-for="CourseName">Course Name</label>
+                                    <span asp-validation-for="CourseName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Course Description input (textarea) -->
+                            <div class="col-md-12">
+                                <div class="form-floating border rounded p-2">
+                                    <textarea asp-for="CourseDescription" class="form-control border-0" placeholder="Enter course description" style="height: 150px;"></textarea>
+                                    <label asp-for="CourseDescription">Course Description</label>
+                                    <span asp-validation-for="CourseDescription" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Department dropdown -->
+                            <div class="col-md-12">
+                                <div class="form-floating border rounded p-2">
+                                    <select asp-for="DepartmentId" asp-items="Model.Departments" class="form-select border-0">
+                                        <option value="">-- Select Department --</option>
+                                    </select>
+                                    <label asp-for="DepartmentId">Department</label>
+                                    <span asp-validation-for="DepartmentId" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- File input for course image -->
+                            <div class="col-md-12">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="ImageFile" type="file" class="form-control border-0 text-dark" />
+                                    <label asp-for="ImageFile" style="color: #000;">Course Image</label>
+                                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Submit button -->
+                        <div class="text-center mt-4">
+                            <button type="submit" class="btn btn-outline-warning w-50 py-3" style="color: white;">Add Course</button>
+                        </div>
+                    </form>
+
+                    <!-- Link to navigate back to the list of courses -->
+                    <div class="text-center mt-3">
+                        <a asp-action="ShowCourses" style="color: #ffc107;">Back to List</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Section to load client-side validation scripts -->
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,123 @@
+﻿@model List<CollegeWebsite.Models.AdmissionApplication>
+
+@{
+    // Set the page title and specify the layout page for the dashboard
+    ViewData["Title"] = "AdminDashboard";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<h2 class="mb-4 text-center fw-bold mt-4">Admission Applications</h2>
+
+@if (TempData["Message"] != null)
+{
+    // Display a success message if TempData["Message"] is set (e.g., after updating status)
+    <div class="alert alert-success text-center">@TempData["Message"]</div>
+}
+
+<style>
+    /* Styling for the admission application cards */
+    .vip-card {
+        border-radius: 20px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        background: #222;
+        border: none;
+        color: white;
+        height: 100%;
+    }
+
+        .vip-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7);
+            background: #333;
+        }
+
+        .vip-card .card-title {
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #0d6efd;
+        }
+
+        .vip-card p {
+            margin-bottom: 0.4rem;
+            font-size: 0.95rem;
+            color: #ddd;
+        }
+
+    .vip-card-footer {
+        border-top: 1px solid #444;
+        padding: 0.75rem 1rem;
+        text-align: right;
+    }
+
+    /* Custom styled button */
+    .btn-primary {
+        border-radius: 50px;
+        padding: 6px 20px;
+        background-color: #a12c2f;
+        border: none;
+        color: white;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-primary:hover {
+            background-color: #7f2123; 
+        }
+
+    /* Responsive margin for cards on small screens */
+    @@media (max-width: 768px) {
+        .vip-card {
+            margin-bottom: 1rem;
+        }
+    }
+</style>
+
+<div class="container">
+    @if (Model != null && Model.Any())
+    {
+        // Loop through each admission application and display details inside styled cards
+        <div class="row">
+            @foreach (var app in Model)
+            {
+                <div class="col-sm-12 col-md-6 mb-4 d-flex align-items-stretch">
+                    <div class="card vip-card w-100">
+                        <div class="card-body">
+                            <h5 class="card-title">Admission #: @app.UniqueAdmissionNumber</h5>
+
+                            <p><strong>Student Name:</strong> @app.StudentName</p>
+                            <p><strong>Father's Name:</strong> @app.FatherName</p>
+                            <p><strong>Date of Birth:</strong> @app.DateOfBirth.ToString("yyyy-MM-dd")</p>
+                            <p><strong>Gender:</strong> @app.Gender</p>
+                            <p><strong>Residential Address:</strong> @app.ResidentialAddress</p>
+                            <p><strong>Permanent Address:</strong> @app.PermanentAddress</p>
+                            <p><strong>Department:</strong> @app.Department?.DepartmentName</p>
+                            <p><strong>Admission For:</strong> @app.AdmissionFor</p>
+                            <p><strong>Board/University:</strong> @app.BoardOrUniversity</p>
+                            <p><strong>Enrollment Number:</strong> @app.EnrollmentNumber</p>
+                            <p><strong>Exam Center:</strong> @app.ExamCenter</p>
+                            <p><strong>Stream:</strong> @app.Stream</p>
+                            <p><strong>Marks Secured:</strong> @app.MarksSecured</p>
+                            <p><strong>Marks Out Of:</strong> @app.MarksOutOf</p>
+                            <p><strong>Class Obtained:</strong> @app.ClassObtained</p>
+                            <p><strong>Sports Details:</strong> @app.SportsDetails</p>
+                            <p><strong>Application Date:</strong> @(app.ApplicationDate?.ToString("yyyy-MM-dd"))</p>
+                            <p><strong>Admission Status:</strong> @app.AdmissionStatus</p>
+                        </div>
+
+                        <div class="vip-card-footer">
+                            @* Button to navigate to UpdateStatus action with AdmissionId route parameter *@
+                            <a asp-action="UpdateStatus" asp-route-id="@app.AdmissionId" class="btn btn-primary btn-sm">Update Status</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        // Show a message if no admission applications are available
+        <div class="alert alert-warning text-center fw-bold">
+            No admission applications found.
+        </div>
+    }
+</div>

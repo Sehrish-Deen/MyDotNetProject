@@ -1,0 +1,35 @@
+﻿@model CollegeWebsite.Models.AdmissionApplication
+
+@{
+    ViewData["Title"] = "Admission Status Result";
+    Layout = "~/Views/Shared/_Student.cshtml";
+}
+
+<!-- Container to center the admission status result card vertically and horizontally -->
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="col-md-8 col-lg-6">
+        <!-- Card to display admission details with styling -->
+        <div class="card p-4 shadow-lg bg-secondary text-white">
+            <!-- Page heading -->
+            <h3 class="text-center mb-4" style="color: #a12c2f;">Admission Status</h3>
+
+            <!-- Display Admission Number -->
+            <p><strong>Admission Number:</strong> @Model.UniqueAdmissionNumber</p>
+            <!-- Display Student Name -->
+            <p><strong>Student Name:</strong> @Model.StudentName</p>
+            <!-- Display Department Name, if available -->
+            <p><strong>Department:</strong> @Model.Department?.DepartmentName</p>
+            <!-- Display Application Date, formatted or "N/A" if not available -->
+            <p>
+                <strong>Application Date:</strong> @(Model.ApplicationDate.HasValue ? Model.ApplicationDate.Value.ToString("yyyy-MM-dd") : "N/A")
+            </p>
+            <!-- Display current Admission Status -->
+            <p><strong>Status:</strong> <span class="fw-bold">@Model.AdmissionStatus</span></p>
+
+            <!-- Button to allow user to check another admission status -->
+            <div class="text-center mt-4">
+                <a asp-action="CheckStatus" class="btn btn-outline-warning text-white w-100 py-2">Check Another Admission Status</a>
+            </div>
+        </div>
+    </div>
+</div>

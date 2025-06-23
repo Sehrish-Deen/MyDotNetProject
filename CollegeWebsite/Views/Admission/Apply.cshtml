@@ -1,0 +1,208 @@
+﻿@model CollegeWebsite.Models.AdmissionFormViewModel
+
+@{
+    // Set the page title and specify the layout page for the student dashboard
+    ViewData["Title"] = "StudentDashboard";
+    Layout = "~/Views/Shared/_Student.cshtml";
+}
+
+<!-- Main container for the page content with full height and padding -->
+<div class="container-fluid position-relative d-flex p-0" style="min-height: 100vh;">
+    <div class="container-fluid">
+        <div class="row h-100 align-items-center justify-content-center" style="min-height: 100vh;">
+            <div class="col-12 col-sm-11 col-md-10 col-lg-10 col-xl-9">
+                <!-- Card-style box with background color and padding -->
+                <div class="bg-secondary rounded p-4 p-sm-5 my-4 mx-3 text-white">
+
+                    <!-- Form heading -->
+                    <h3 class="text-center mb-4" style="color: #a12c2f;">Admission Application Form</h3>
+
+                    <!-- Display success message from TempData if any -->
+                    @if (TempData["Success"] != null)
+                    {
+                        <div class="alert alert-success">@TempData["Success"]</div>
+                    }
+
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <!-- Link button to download admission form PDF -->
+                            <a asp-controller="Admission" asp-action="DownloadAdmissionForm" class="btn btn-outline-danger mb-3 w-75">
+                                Download Student Admission Form (PDF)
+                            </a>
+                        </div>
+                    </div>
+
+                    <hr class="bg-light" />
+
+                    <!-- Admission application form -->
+                    <form asp-action="Apply" method="post">
+                        @Html.AntiForgeryToken() <!-- CSRF token -->
+                        <!-- Show validation summary if model state is invalid -->
+                        @if (!ViewData.ModelState.IsValid)
+                        {
+                            @Html.ValidationSummary(false, "", new { @class = "alert alert-danger" })
+                        }
+
+                        <div class="row g-3">
+                            <!-- Student Name input (readonly) -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="StudentName" class="form-control border-0" readonly placeholder="Student Name" />
+                                    <label asp-for="StudentName">Student Name</label>
+                                    <span asp-validation-for="StudentName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Father Name input -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="FatherName" class="form-control border-0" placeholder="Father Name" />
+                                    <label asp-for="FatherName">Father Name</label>
+                                    <span asp-validation-for="FatherName" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Date of Birth input -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="DateOfBirth" type="date" class="form-control border-0" placeholder="Date of Birth" />
+                                    <label asp-for="DateOfBirth">Date of Birth</label>
+                                    <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Gender dropdown -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <select asp-for="Gender" class="form-select border-0">
+                                        <option value="">-- Select Gender --</option>
+                                        <option>Male</option>
+                                        <option>Female</option>
+                                    </select>
+                                    <label asp-for="Gender">Gender</label>
+                                    <span asp-validation-for="Gender" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Residential Address input -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="ResidentialAddress" class="form-control border-0" placeholder="Residential Address" />
+                                    <label asp-for="ResidentialAddress">Residential Address</label>
+                                    <span asp-validation-for="ResidentialAddress" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Permanent Address input -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="PermanentAddress" class="form-control border-0" placeholder="Permanent Address" />
+                                    <label asp-for="PermanentAddress">Permanent Address</label>
+                                    <span asp-validation-for="PermanentAddress" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Department dropdown populated via ViewBag.Departments -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <select asp-for="DepartmentId" asp-items="ViewBag.Departments" class="form-select border-0">
+                                        <option value="">-- Select Field --</option>
+                                    </select>
+                                    <label asp-for="DepartmentId">Department</label>
+                                    <span asp-validation-for="DepartmentId" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Admission For input -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="AdmissionFor" class="form-control border-0" placeholder="Admission For" />
+                                    <label asp-for="AdmissionFor">Admission For</label>
+                                    <span asp-validation-for="AdmissionFor" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Board or University input -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="BoardOrUniversity" class="form-control border-0" placeholder="Board" />
+                                    <label asp-for="BoardOrUniversity">Board</label>
+                                    <span asp-validation-for="BoardOrUniversity" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Enrollment Number input -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="EnrollmentNumber" class="form-control border-0" placeholder="Enrollment Number" />
+                                    <label asp-for="EnrollmentNumber">Enrollment Number</label>
+                                    <span asp-validation-for="EnrollmentNumber" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Exam Center input -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="ExamCenter" class="form-control border-0" placeholder="Exam Center" />
+                                    <label asp-for="ExamCenter">Exam Center</label>
+                                    <span asp-validation-for="ExamCenter" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Stream input -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="Stream" class="form-control border-0" placeholder="Stream" />
+                                    <label asp-for="Stream">Stream</label>
+                                    <span asp-validation-for="Stream" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Marks Secured input -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="MarksSecured" class="form-control border-0" placeholder="Marks Secured" />
+                                    <label asp-for="MarksSecured">Marks Secured</label>
+                                    <span asp-validation-for="MarksSecured" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Marks Out Of input -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="MarksOutOf" class="form-control border-0" placeholder="Marks Out Of" />
+                                    <label asp-for="MarksOutOf">Marks Out Of</label>
+                                    <span asp-validation-for="MarksOutOf" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Class Obtained input -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <input asp-for="ClassObtained" class="form-control border-0" placeholder="Class Obtained" />
+                                    <label asp-for="ClassObtained">Class Obtained</label>
+                                    <span asp-validation-for="ClassObtained" class="text-danger"></span>
+                                </div>
+                            </div>
+
+                            <!-- Optional Sports Details textarea -->
+                            <div class="col-md-6">
+                                <div class="form-floating border rounded p-2">
+                                    <textarea asp-for="SportsDetails" class="form-control border-0" placeholder="Optional" style="height: 70px;"></textarea>
+                                    <label asp-for="SportsDetails">Sports Details (Optional)</label>
+                                    <span asp-validation-for="SportsDetails" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Submit button centered and styled -->
+                        <div class="text-center mt-4">
+                            <button type="submit" class="btn btn-outline-warning w-50 py-3" style="color: white;">Submit Application</button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

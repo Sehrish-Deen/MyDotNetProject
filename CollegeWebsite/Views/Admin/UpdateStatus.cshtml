@@ -1,0 +1,60 @@
+﻿@model CollegeWebsite.Models.AdmissionApplication
+
+@{
+    ViewData["Title"] = "Update Admission Status";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<!-- Full-page container for consistent height -->
+<div class="container-fluid position-relative d-flex p-0" style="min-height: 100vh;">
+    <div class="container-fluid">
+        <div class="row h-100 align-items-center justify-content-center" style="min-height: 100vh;">
+            <div class="col-12 col-sm-11 col-md-10 col-lg-8 col-xl-7">
+                <!-- Card-like UI -->
+                <div class="bg-secondary rounded p-4 p-sm-5 my-4 mx-3 text-white">
+
+                    <!-- Page Heading -->
+                    <h3 class="text-center mb-4" style="color: #a12c2f;">Update Admission Status</h3>
+
+                    <!-- Basic student info -->
+                    <div class="mb-4">
+                        <h5><strong>Student:</strong> @Model.StudentName</h5>
+                        <h6><strong>Admission ID:</strong> @Model.UniqueAdmissionNumber</h6>
+                    </div>
+
+                    <!-- Status Update Form -->
+                    <form asp-action="UpdateStatus" method="post">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" asp-for="AdmissionId" />
+
+                        <div class="row g-3">
+                            <!-- Admission Status Dropdown -->
+                            <div class="col-md-12">
+                                <div class="form-floating border rounded p-2">
+                                    <select asp-for="AdmissionStatus" class="form-select border-0 text-white bg-dark">
+                                        <option value="Pending">Pending</option>
+                                        <option value="Accepted">Accepted</option>
+                                        <option value="Rejected">Rejected</option>
+                                    </select>
+
+                                    <label for="admissionStatus" style="color: #000;">Admission Status</label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Buttons -->
+                        <div class="text-center mt-4">
+                            <button type="submit" class="btn btn-outline-warning w-50 py-3" style="color: white;">Update Status</button>
+                        </div>
+
+                        <!-- Back link -->
+                        <div class="text-center mt-3">
+                            <a asp-action="AdmissionApplications" style="color: #ffc107;">Back to List</a>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

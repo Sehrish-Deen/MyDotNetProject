@@ -1,0 +1,59 @@
+﻿@model CollegeWebsite.Models.CDViewModel
+@{
+    ViewData["Title"] = "AdminDashboard";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<h1 class="mt-5"">Admin Dashboard</h1>
+
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-6 col-xl-3">
+            <div class="bg-secondary rounded d-flex align-items-center justify-content-between p-4">
+                <i class="fa fa-building fa-3x text-primary"></i>
+                <div class="ms-3">
+                    <p class="mb-2">Departments</p>
+                    <h6 class="mb-0">@ViewBag.DepartmentCount</h6>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-xl-3">
+            <div class="bg-secondary rounded d-flex align-items-center justify-content-between p-4">
+                <i class="fa fa-book fa-3x text-primary"></i>
+                <div class="ms-3">
+                    <p class="mb-2">Courses</p>
+                    <h6 class="mb-0">@ViewBag.CourseCount</h6>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-xl-3">
+            <div class="bg-secondary rounded d-flex align-items-center justify-content-between p-4">
+                <i class="fa fa-chalkboard-teacher fa-3x text-primary"></i>
+                <div class="ms-3">
+                    <p class="mb-2">Faculties</p>
+                    <h6 class="mb-0">@ViewBag.FacultyCount</h6>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-xl-3">
+            <div class="bg-secondary rounded d-flex align-items-center justify-content-between p-4">
+                <i class="fa fa-user-graduate fa-3x text-primary"></i>
+                <div class="ms-3">
+                    <p class="mb-2">Students</p>
+                    <h6 class="mb-0">@ViewBag.StudentCount</h6>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-xl-3">
+            <div class="bg-secondary rounded d-flex align-items-center justify-content-between p-4">
+                <i class="fa fa-comments fa-3x text-primary"></i>
+                <div class="ms-3">
+                    <p class="mb-2">Feedbacks</p>
+                    <h6 class="mb-0">@ViewBag.FeedbackCount</h6>
+                </div>
+            </div>
+        </div>
+     
+
+    </div>
+</div>

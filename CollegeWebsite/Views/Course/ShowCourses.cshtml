@@ -1,0 +1,128 @@
+﻿@model IEnumerable<CollegeWebsite.Models.Course>
+
+@{
+    ViewData["Title"] = "Show Courses";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+
+<br />
+
+<style>
+    .custom-search {
+        background-color: #2c2f33; 
+        color: #fff; 
+        border: 1px solid #444; 
+        border-radius: 10px; 
+        padding: 8px 20px;
+        width: 250px;
+        transition: 0.3s ease-in-out;
+    }
+
+        .custom-search::placeholder {
+            color: #ccc; 
+        }
+
+        .custom-search:focus {
+            background-color: #1e1e1e;
+            border-color: #a12c2f; 
+            outline: 2px solid #a12c2f; 
+            outline-offset: 2px; 
+        }
+
+</style>
+
+<h1>All Courses</h1>
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <a asp-action="AddCourse" class="btn btn-primary me-3" style="background-color: #a12c2f; border-color: #a12c2f;">
+        Add Course
+    </a>
+
+    <form class="search-form" method="get" asp-controller="Course" asp-action="ShowCourses">
+        <div class="d-flex justify-content-end">
+            <input class="form-control custom-search" type="search" placeholder="Search courses..." name="search">
+            <button type="submit" class="btn btn-primary ms-2"  style="background-color: #a12c2f; border-color: #a12c2f;">Search</button>
+        </div>
+
+    </form>
+</div>
+
+
+
+@if (TempData["insert_success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Success!</strong> @TempData["insert_success"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["update_success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Success!</strong> @TempData["update_success"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["delete_success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Success!</strong> @TempData["delete_success"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<div class="col-12">
+    <div class="bg-secondary rounded h-100 p-4">
+        <div class="table-responsive table-hover">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th>@Html.DisplayNameFor(model => model.First().CourseName)</th>
+                     
+                        <th>Image</th>
+                        <th>@Html.DisplayNameFor(model => model.First().Department.DepartmentName)</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (!Model.Any())
+                    {
+                        <tr>
+                            <td colspan="6" class="text-center" style="color: #a12c2f;">No Courses Found</td>
+                        </tr>
+                    }
+                    else
+                    {
+                        int i = 1;
+                        foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@i</td>
+                                <td>@Html.DisplayFor(modelItem => item.CourseName)</td>
+                               
+                                <td>
+                                    @if (!string.IsNullOrEmpty(item.ImagePath))
+                                    {
+                                        <img src="~/images/@item.ImagePath" style="width:100px; height:100px;" />
+                                    }
+                                    else
+                                    {
+                                        <span>No Image</span>
+                                    }
+                                </td>
+                                <td>@Html.DisplayFor(modelItem => item.Department.DepartmentName)</td>
+                                <td>
+                                    <a asp-action="Edit" asp-route-id="@item.CourseId" style="color: #a12c2f;">Edit</a> |
+                                    <a asp-action="Details" asp-route-id="@item.CourseId" style="color: #a12c2f;">Details</a> |
+                                    <a asp-action="Delete" asp-route-id="@item.CourseId" style="color: #a12c2f;">Delete</a>
+                                </td>
+                            </tr>
+                            i++;
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

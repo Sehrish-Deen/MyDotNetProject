@@ -1,0 +1,81 @@
+﻿@model CollegeWebsite.Models.CourseViewModel
+
+@{
+    ViewData["Title"] = "Edit Course";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+<br />
+
+<!-- Page header -->
+<h1>Edit Course</h1>
+<hr />
+
+<!-- Display error messages from TempData for image validation -->
+<p style="color:red;">@TempData["Size_error"]</p>
+<p style="color:red;">@TempData["Ext_error"]</p>
+
+<div class="row">
+    <div class="col-sm-12 col-xl-6">
+        <!-- Card container for the edit form -->
+        <div class="bg-secondary rounded h-100 p-4">
+            <!-- Form for editing course details, supports file upload -->
+            <form asp-action="Edit" method="post" enctype="multipart/form-data">
+
+                <!-- Hidden input to hold CourseId for binding on post -->
+                <input asp-for="CourseId" type="hidden" />
+
+                <!-- Validation summary for model errors -->
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <!-- Course Name input with floating label -->
+                <div class="form-floating mb-3">
+                    <input asp-for="CourseName" class="form-control" id="courseName" />
+                    <label for="courseName">Course Name</label>
+                    <span asp-validation-for="CourseName" class="text-danger"></span>
+                </div>
+
+                <!-- Course Description textarea with floating label -->
+                <div class="form-floating mb-3">
+                    <textarea asp-for="CourseDescription" class="form-control" id="courseDescription" style="height: 150px;"></textarea>
+                    <label for="courseDescription">Course Description</label>
+                    <span asp-validation-for="CourseDescription" class="text-danger"></span>
+                </div>
+
+                <!-- Department dropdown select with floating label -->
+                <div class="form-floating mb-3">
+                    <select asp-for="DepartmentId" asp-items="Model.Departments" class="form-select" id="departmentSelect">
+                        <option value="">-- Select Department --</option>
+                    </select>
+                    <label for="departmentSelect">Department</label>
+                    <span asp-validation-for="DepartmentId" class="text-danger"></span>
+                </div>
+
+                <!-- File input for uploading new course image -->
+                <div class="form-floating mb-3">
+                    <input asp-for="ImageFile" type="file" class="form-control" id="courseImage" />
+                    <label for="courseImage">Choose Image</label>
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div>
+
+                <!-- Display existing course image if available -->
+                @if (ViewBag.ExistingImage != null)
+                {
+                    <div class="mb-3">
+                        <label>Existing Image:</label><br />
+                        <img src="~/images/@ViewBag.ExistingImage" style="width:100px; height:100px;" />
+                    </div>
+                }
+
+                <!-- Submit button to update course -->
+                <div class="form-group">
+                    <input type="submit" value="Update Course" class="btn btn-danger" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Link to go back to the courses list page -->
+<div>
+    <a asp-action="ShowCourses" style="color: #a12c2f;">Back to List</a>
+</div>

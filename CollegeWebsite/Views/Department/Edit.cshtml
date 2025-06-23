@@ -1,0 +1,59 @@
+﻿@model CollegeWebsite.Models.DepartmentViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Dashboard.cshtml";
+}
+<br />
+
+<h1>Edit Department</h1>
+<hr />
+
+<p style="color:red;">@TempData["Size_error"]</p>
+<p style="color:red;">@TempData["Ext_error"]</p>
+
+<div class="row">
+    <div class="col-sm-12 col-xl-6">
+        <div class="bg-secondary rounded h-100 p-4">
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <input type="hidden" asp-for="DepartmentId" />
+
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-floating mb-3">
+                    <input asp-for="DepartmentName" class="form-control" id="deptName" />
+                    <label for="deptName">Department Name</label>
+                    <span asp-validation-for="DepartmentName" class="text-danger"></span>
+                </div>
+
+                <div class="form-floating mb-3">
+                    <textarea asp-for="Description" class="form-control" placeholder="Enter description" id="floatingTextarea" style="height: 150px;"></textarea>
+                    <label for="floatingTextarea">Description</label>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-floating mb-3">
+                    <input asp-for="ImagePath" type="file" class="form-control" id="imagePath" />
+                    <label for="imagePath">Choose Image</label>
+                    <span asp-validation-for="ImagePath" class="text-danger"></span>
+                </div>
+
+                @if (ViewBag.ExistingImage != null)
+                {
+                    <div class="mb-3">
+                        <label>Existing Image:</label><br />
+                        <img src="~/images/@ViewBag.ExistingImage" style="width:100px; height:100px;" />
+                    </div>
+                }
+
+                <div class="form-group">
+                    <input type="submit" value="Update Department" class="btn btn-danger" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" style="color: #a12c2f;">Back to List</a>
+</div>
