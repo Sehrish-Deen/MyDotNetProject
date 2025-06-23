@@ -28,6 +28,9 @@ This is a web-based college management system built using ASP.NET MVC.
 ### 🖼 Image Validation
 ![Image Validation](https://github.com/Sehrish-Deen/MyDotNetProject/blob/main/screenshot.png/image%20validation.PNG?raw=true)
 
+  ### Manage Admission 
+![Admission Form](https://github.com/Sehrish-Deen/MyDotNetProject/blob/main/screenshot.png/Admission.png?raw=true)
+
 
 
 
@@ -43,8 +46,6 @@ This is a web-based college management system built using ASP.NET MVC.
   ###  Status Check
 ![Status Check](https://github.com/Sehrish-Deen/MyDotNetProject/blob/main/screenshot.png/status.PNG?raw=true)
 
-  ###  Admission Form
-![Admission Form](https://github.com/Sehrish-Deen/MyDotNetProject/blob/main/screenshot.png/Admission.png?raw=true)
 
 ###  Admission Validation
 ![Admission Validation](https://github.com/Sehrish-Deen/MyDotNetProject/blob/main/screenshot.png/AdmissionValidation.png?raw=true)
