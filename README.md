@@ -62,6 +62,6 @@ This is a web-based college management system built using ASP.NET MVC.
 - Open the Project in Visual Studio
 - Build and Run the project (Ctrl + F5)
 
-## 🙋‍♀️ Developed by
+##  Developed by
 
 Sehrish Deen
